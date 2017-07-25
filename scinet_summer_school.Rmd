@@ -1,0 +1,20 @@
+---
+title: "R for MRI Analysis"
+author: "Jason Lerch and Chris Hammill"
+date: "July 26, 2017"
+output: 
+  beamer_presentation:
+    fig_caption: false
+    includes:
+      in_header: spacing.tex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+---
+
+## Ways to Engage
+
+- 
